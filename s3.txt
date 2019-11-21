@@ -1,0 +1,619 @@
+
+8EBC levels/LRZ/act1/rock.unc
+9000 levels/LRZ/act2/rock.unc
+9144
+
+# disassemble all the music data
+B0000 sound/music/AIZ1.smps
+B2210 sound/music/AIZ2.smps
+B3F24 sound/music/HCZ1.smps
+B5492 sound/music/HCZ2.smps
+B6E51 sound/music/MGZ1.smps
+B7468 sound/music/MGZ2.smps
+B7896
+B8000 sound/music/CNZ1.smps
+B9BBB sound/music/CNZ2.smps
+BB99E sound/music/FBZ1.smps
+BBF36 sound/music/FBZ2.smps
+BC499 sound/music/ICZ1.smps
+BCA37 sound/music/ICZ2.smps
+BD04B sound/music/LBZ1.smps
+BDF71
+C0000 sound/music/LBZ2.smps
+C252A sound/music/MVZ1.smps
+C2A9C sound/music/MVZ2.smps
+C3005 sound/music/SOZ1.smps
+C366F sound/music/SOZ2.smps
+C3C62 sound/music/LRZ1.smps
+C504F sound/music/HPZ.smps
+C6642 sound/music/SSZ.smps
+C7954 sound/music/DEZ1.smps
+C7E3F
+C8000 sound/music/DEZ2.smps
+C8412 sound/music/Miniboss.smps
+C8742 sound/music/Boss.smps
+C8C3E sound/music/Doomsday.smps
+C9521 sound/music/Glowing Spheres.smps
+C9A84 sound/music/Special Stage.smps
+CA31C sound/music/Slots.smps
+CAE04 sound/music/Gumball Machine.smps
+CBB19 sound/music/Knuckles.smps
+CBE82 sound/music/ALZ.smps
+CC988 sound/music/DPZ.smps
+CD620 sound/music/BPZ.smps
+CEE63
+D0000 sound/music/CGZ.smps
+D224B sound/music/EMZ.smps
+D2993 sound/music/Title.smps
+D2DCC sound/music/Ending.smps
+D383C sound/music/Game Over.smps
+D3A99 sound/music/Continue.smps
+D427A sound/music/Level Outro.smps
+D476A sound/music/1UP.smps
+D496A sound/music/Emerald.smps
+D4A38 sound/music/Invincibility.smps
+D4CB8 sound/music/Competition Menu.smps
+D5EAA sound/music/Unknown.smps
+D695E sound/music/Data Select.smps
+D7FC5
+D8000 sound/music/Final Boss.smps
+D8592 sound/music/Drowning.smps
+D86C0
+
+# disassemble all the sfx data
+EC000 sound/sfx/32.smps
+EC02E sound/sfx/33.smps
+EC05C sound/sfx/34.smps
+EC084 sound/sfx/35.smps
+EC0B6 sound/sfx/36.smps
+EC0EB sound/sfx/37.smps
+EC11A sound/sfx/38.smps
+EC150 sound/sfx/39.smps
+EC191 sound/sfx/3A.smps
+EC1BC sound/sfx/3B.smps
+EC20B sound/sfx/3C.smps
+EC249 sound/sfx/3D.smps
+EC283 sound/sfx/3E.smps
+EC2AE sound/sfx/3F.smps
+EC2D1 sound/sfx/40.smps
+EC2F4 sound/sfx/41.smps
+EC317 sound/sfx/42.smps
+EC32F sound/sfx/43.smps
+EC34A sound/sfx/44.smps
+EC377 sound/sfx/45.smps
+EC39F sound/sfx/46.smps
+EC3CC sound/sfx/47.smps
+EC3EC sound/sfx/48.smps
+EC414 sound/sfx/49.smps
+EC41E sound/sfx/4A.smps
+EC438 sound/sfx/4B.smps
+EC460 sound/sfx/4C.smps
+EC483 sound/sfx/4D.smps
+EC498 sound/sfx/4E.smps
+EC4C0 sound/sfx/4F.smps
+EC4F1 sound/sfx/50.smps
+EC51B sound/sfx/51.smps
+EC548 sound/sfx/52.smps
+EC58C sound/sfx/53.smps
+EC59D sound/sfx/54.smps
+EC5D1 sound/sfx/55.smps
+EC609 sound/sfx/56.smps
+EC63A sound/sfx/57.smps
+EC671 sound/sfx/58.smps
+EC68E sound/sfx/59.smps
+EC6CE sound/sfx/5A.smps
+EC711 sound/sfx/5B.smps
+EC739 sound/sfx/5C.smps
+EC749 sound/sfx/5D.smps
+EC762 sound/sfx/5E.smps
+EC794 sound/sfx/5F.smps
+EC7C5 sound/sfx/60.smps
+EC7DD sound/sfx/61.smps
+EC7F6 sound/sfx/62.smps
+EC852 sound/sfx/63.smps
+EC87F sound/sfx/64.smps
+EC88C sound/sfx/65.smps
+EC89B sound/sfx/66.smps
+EC8C3 sound/sfx/67.smps
+EC8F9 sound/sfx/68.smps
+EC922 sound/sfx/69.smps
+EC94A sound/sfx/6A.smps
+EC97C sound/sfx/6B.smps
+EC997 sound/sfx/6C.smps
+EC9BF sound/sfx/6D.smps
+ECA00 sound/sfx/6E.smps
+ECA31 sound/sfx/70.smps
+ECA47 sound/sfx/71.smps
+ECA71 sound/sfx/72.smps
+ECA90 sound/sfx/73.smps
+ECAC2 sound/sfx/74.smps
+ECAF7 sound/sfx/75.smps
+ECB23 sound/sfx/76.smps
+ECB52 sound/sfx/77.smps
+ECB7F sound/sfx/78.smps
+ECBB2 sound/sfx/79.smps
+ECBC4 sound/sfx/7A.smps
+ECC05 sound/sfx/7B.smps
+ECC24 sound/sfx/7C.smps
+ECC58 sound/sfx/7D.smps
+ECC8E sound/sfx/7E.smps
+ECCD8 sound/sfx/7F.smps
+ECD05 sound/sfx/80.smps
+ECD32 sound/sfx/81.smps
+ECD66 sound/sfx/82.smps
+ECD96 sound/sfx/83.smps
+ECDC5 sound/sfx/84.smps
+ECDF6 sound/sfx/85.smps
+ECE20 sound/sfx/86.smps
+ECE6A sound/sfx/87.smps
+ECE99 sound/sfx/88.smps
+ECEC6 sound/sfx/89.smps
+ECF11 sound/sfx/8A.smps
+ECF45 sound/sfx/8B.smps
+ECF75 sound/sfx/8C.smps
+ECFA6 sound/sfx/8D.smps
+ECFD3 sound/sfx/8E.smps
+ECFE4 sound/sfx/8F.smps
+ECFFC sound/sfx/90.smps
+ED032 sound/sfx/91.smps
+ED050 sound/sfx/92.smps
+ED07F sound/sfx/93.smps
+ED0B2 sound/sfx/94.smps
+ED0E4 sound/sfx/95.smps
+ED12F sound/sfx/96.smps
+ED14D sound/sfx/97.smps
+ED199 sound/sfx/98.smps
+ED1D1 sound/sfx/99.smps
+ED1FE sound/sfx/9A.smps
+ED22B sound/sfx/9B.smps
+ED258 sound/sfx/9C.smps
+ED288 sound/sfx/9D.smps
+ED2AE sound/sfx/9E.smps
+ED2D4 sound/sfx/9F.smps
+ED30A sound/sfx/A0.smps
+ED337 sound/sfx/A1.smps
+ED344 sound/sfx/A2.smps
+ED378 sound/sfx/A3.smps
+ED3AE sound/sfx/A4.smps
+ED3E2 sound/sfx/A5.smps
+ED413 sound/sfx/A6.smps
+ED42D sound/sfx/A7.smps
+ED45E sound/sfx/A8.smps
+ED494 sound/sfx/A9.smps
+ED4C6 sound/sfx/AA.smps
+ED4FC sound/sfx/AB.smps
+ED530 sound/sfx/AC.smps
+ED57A sound/sfx/AD.smps
+ED5A9 sound/sfx/AE.smps
+ED5DC sound/sfx/AF.smps
+ED60B sound/sfx/B0.smps
+ED63F sound/sfx/B1.smps
+ED652 sound/sfx/B2.smps
+ED688 sound/sfx/B3.smps
+ED6D4 sound/sfx/B4.smps
+ED6EA sound/sfx/B5.smps
+ED720 sound/sfx/B6.smps
+ED73F sound/sfx/B7.smps
+ED7A4 sound/sfx/B8.smps
+ED7DB sound/sfx/B9.smps
+ED80F sound/sfx/BA.smps
+ED850 sound/sfx/BB.smps
+ED88C sound/sfx/BC.smps
+ED8BA sound/sfx/BD.smps
+ED8D2 sound/sfx/BE.smps
+ED8FA sound/sfx/BF.smps
+ED927 sound/sfx/C0.smps
+ED956 sound/sfx/C1.smps
+ED98E sound/sfx/C2.smps
+ED9BB sound/sfx/C3.smps
+ED9E8 sound/sfx/C4.smps
+EDA15 sound/sfx/C5.smps
+EDA42 sound/sfx/C6.smps
+EDA6F sound/sfx/C7.smps
+EDA87 sound/sfx/C8.smps
+EDAB7 sound/sfx/C9.smps
+EDAE1 sound/sfx/CA.smps
+EDAF7 sound/sfx/CB.smps
+EDB52 sound/sfx/CC.smps
+EDBA3 sound/sfx/CD.smps
+EDC15 sound/sfx/CE.smps
+EDC3F sound/sfx/CF.smps
+EDC74 sound/sfx/D0.smps
+EDCA1 sound/sfx/D1.smps
+EDD1C sound/sfx/D2.smps
+EDD71 sound/sfx/D3.smps
+EDD9D sound/sfx/D4.smps
+EDE17 sound/sfx/D5.smps
+EDE4B sound/sfx/D6.smps
+EDE73 sound/sfx/D7.smps
+EDEB4 sound/sfx/D8.smps
+EDEDC sound/sfx/D9.smps
+EDF03
+
+# disassemble all the DPCM samples
+F00BD sound/dpcm/86.dpcm
+F03BD sound/dpcm/81.dpcm
+F0B4D sound/dpcm/82_85.dpcm
+F100D sound/dpcm/94_97.dpcm
+F199D sound/dpcm/90_93.dpcm
+F1FED sound/dpcm/88.dpcm
+F323D sound/dpcm/8A_8B.dpcm
+F339D sound/dpcm/8C.dpcm
+F3408 sound/dpcm/8D_8E.dpcm
+F38D8 sound/dpcm/87.dpcm
+F4018 sound/dpcm/8F.dpcm
+F4528 sound/dpcm/89.dpcm
+F4F48 sound/dpcm/98_9A.dpcm
+F5C67 sound/dpcm/9B.dpcm
+F7304
+
+# convert DPCM to PCM
+*mkdir sound/pcm/
+*"tools/dpcm2wav.exe",19091,sound/dpcm/81.dpcm,sound/pcm/81.wav
+*"tools/dpcm2wav.exe",11274,sound/dpcm/82_85.dpcm,sound/pcm/82.wav
+*"tools/dpcm2wav.exe",9051,sound/dpcm/82_85.dpcm,sound/pcm/83.wav
+*"tools/dpcm2wav.exe",7560,sound/dpcm/82_85.dpcm,sound/pcm/84.wav
+*"tools/dpcm2wav.exe",6491,sound/dpcm/82_85.dpcm,sound/pcm/85.wav
+*"tools/dpcm2wav.exe",19091,sound/dpcm/86.dpcm,sound/pcm/86.wav
+*"tools/dpcm2wav.exe",19091,sound/dpcm/87.dpcm,sound/pcm/87.wav
+*"tools/dpcm2wav.exe",16766,sound/dpcm/88.dpcm,sound/pcm/88.wav
+*"tools/dpcm2wav.exe",13482,sound/dpcm/89.dpcm,sound/pcm/89.wav
+*"tools/dpcm2wav.exe",9051,sound/dpcm/8A_8B.dpcm,sound/pcm/8A.wav
+*"tools/dpcm2wav.exe",7358,sound/dpcm/8A_8B.dpcm,sound/pcm/8B.wav
+*"tools/dpcm2wav.exe",12853,sound/dpcm/8D_8E.dpcm,sound/pcm/8D.wav
+*"tools/dpcm2wav.exe",10041,sound/dpcm/8D_8E.dpcm,sound/pcm/8E.wav
+*"tools/dpcm2wav.exe",14946,sound/dpcm/8F.dpcm,sound/pcm/8F.wav
+*"tools/dpcm2wav.exe",20513,sound/dpcm/90_93.dpcm,sound/pcm/90.wav
+*"tools/dpcm2wav.exe",15804,sound/dpcm/90_93.dpcm,sound/pcm/91.wav
+*"tools/dpcm2wav.exe",13482,sound/dpcm/90_93.dpcm,sound/pcm/92.wav
+*"tools/dpcm2wav.exe",11274,sound/dpcm/90_93.dpcm,sound/pcm/93.wav
+*"tools/dpcm2wav.exe",16766,sound/dpcm/94_97.dpcm,sound/pcm/94.wav
+*"tools/dpcm2wav.exe",13482,sound/dpcm/94_97.dpcm,sound/pcm/95.wav
+*"tools/dpcm2wav.exe",11274,sound/dpcm/94_97.dpcm,sound/pcm/96.wav
+*"tools/dpcm2wav.exe",9688,sound/dpcm/94_97.dpcm,sound/pcm/97.wav
+*"tools/dpcm2wav.exe",12853,sound/dpcm/98_9A.dpcm,sound/pcm/98.wav
+*"tools/dpcm2wav.exe",9358,sound/dpcm/98_9A.dpcm,sound/pcm/99.wav
+*"tools/dpcm2wav.exe",8492,sound/dpcm/98_9A.dpcm,sound/pcm/9A.wav
+*"tools/dpcm2wav.exe",9688,sound/dpcm/9B.dpcm,sound/pcm/9B.wav
+
+
+# disassemble level data array
+13B830 levels/AIZ/act1/Blocks 1.kos
+13BA30 levels/AIZ/act1/Blocks 2.kos
+13D750 levels/AIZ/act1/Tiles 1.kosm
+13E552 levels/AIZ/act1/Tiles 2.kosm
+143D96 levels/AIZ/act1/Chunks.kos
+148128 levels/AIZ/act2/Blocks 1.kos
+1489A8 levels/AIZ/act2/Blocks 2.kos
+1496B8 levels/AIZ/act2/Tiles 1.kosm
+14A1BA levels/AIZ/act2/Tiles 2.kosm
+14EA6E levels/AIZ/act2/Chunks.kos
+
+152B8E levels/HCZ/common/Blocks 1.kos
+152F7E levels/HCZ/common/Tiles 1.kosm
+153B70 levels/HCZ/common/Chunks 1.kos
+153E60 levels/HCZ/act1/Blocks 2.kos
+1546F0 levels/HCZ/act1/Tiles 2.kosm
+156742 levels/HCZ/act1/Chunks 2.kos
+158562 levels/HCZ/act2/Blocks 2.kos
+158DF2 levels/HCZ/act2/Tiles 2.kosm
+15AC74 levels/HCZ/act2/Chunks 2.kos
+
+15C744 levels/MGZ/common/Blocks 1.kos
+15D0A4 levels/MGZ/common/Tiles 1.kosm
+15F926 levels/MGZ/common/Chunks 1.kos
+161C56 levels/MGZ/act1/Blocks 2.kos
+161F56 levels/MGZ/act1/Tiles 2.kosm
+162628 levels/MGZ/act1/Chunks 2.kos
+162E58 levels/MGZ/act2/Blocks 2.kos
+1632A8 levels/MGZ/act2/Tiles 2.kosm
+16403A levels/MGZ/act2/Chunks 2.kos
+
+165A5A levels/CNZ/common/Blocks.kos
+166A9A levels/CNZ/common/Tiles.kosm
+169CBC levels/MGZ/common/Chunks.kos
+
+16CDCC levels/FBZ/act1/Blocks.kos
+16DB1C levels/FBZ/act1/Tiles.kosm
+1705EE levels/FBZ/act1/Chunks.kos
+17315E levels/FBZ/act2/Blocks.kos
+173E9E levels/FBZ/act2/Tiles.kosm
+176ED0 levels/FBZ/act2/Chunks.kos
+
+179A00 levels/ICZ/common/Blocks 1.kos
+179CF0 levels/ICZ/common/Tiles 1.kosm
+17B102 levels/ICZ/common/Chunks 1.kos
+17B412 levels/ICZ/act1/Blocks 2.kos
+17BF62 levels/ICZ/act1/Tiles 2.kosm
+17DEF4 levels/ICZ/act1/Chunks 2.kos
+17FB24 levels/ICZ/act2/Blocks 2.kos
+180734 levels/ICZ/act2/Tiles 2.kosm
+182746 levels/ICZ/act2/Chunks 2.kos
+
+184196 levels/LBZ/common/Blocks 1.kos
+184646 levels/LBZ/act1/Blocks 2.kos
+185206 levels/LBZ/common/Tiles 1.kosm
+186688 levels/LBZ/act1/Tiles 2.kosm
+18872A levels/LBZ/act1/Chunks.kos
+18B6DA levels/LBZ/act2/Blocks 2.kos
+18D03A levels/LBZ/act2/Tiles 2.kosm
+190A3E levels/LBZ/act2/Chunks.kos
+
+193C2E levels/ALZ/common/Blocks.kos
+1946EE levels/ALZ/common/Tiles.kosm
+1974A0 levels/ALZ/common/Chunks.kos
+
+197B30 levels/BPZ/common/Blocks.kos
+198400 levels/BPZ/common/Tiles.kosm
+19A3E2 levels/BPZ/common/Chunks.kos
+
+19AAD2 levels/DPZ/common/Blocks.kos
+19B4B2 levels/DPZ/common/Tiles.kosm
+19CFA4 levels/DPZ/common/Chunks.kos
+
+19D5D4 levels/CGZ/common/Blocks.kos
+19DD24 levels/CGZ/common/Tiles.kosm
+1A02C6 levels/CGZ/common/Chunks.kos
+
+1A0786 levels/EMZ/common/Blocks.kos
+1A1236 levels/EMZ/common/Tiles.kosm
+1A3E68 levels/EMZ/common/Chunks.kos
+
+1A4578 levels/Gumball/common/Blocks.kos
+1A4938 levels/Gumball/common/Tiles.kosm
+1A52AA levels/Gumball/common/Chunks.kos
+
+1A55FA levels/GlowingSpheres/common/Blocks.kos
+1A589A levels/GlowingSpheres/common/Tiles.kosm
+1A680C levels/GlowingSpheres/common/Chunks.kos
+
+1A6B0C levels/Slots/common/Blocks.kos
+1A77CC levels/Slots/common/Tiles.kosm
+1AA46E levels/Slots/common/Chunks.kos
+1F6A41
+
+# disassemble collision files
+1CD300 levels/AIZ/act1/solid 1.unc
+1CD900 levels/AIZ/act1/solid 2.unc
+1CDF00 levels/AIZ/act2/solid 1.unc
+1CE500 levels/AIZ/act2/solid 2.unc
+
+1CEB00 levels/HCZ/act1/solid 1.unc
+1CF100 levels/HCZ/act1/solid 2.unc
+1CF700 levels/HCZ/act2/solid 1.unc
+1CFD00 levels/HCZ/act2/solid 2.unc
+
+1D0300 levels/MGZ/act1/solid 1.unc
+1D0900 levels/MGZ/act1/solid 2.unc
+1D0F00 levels/MGZ/act2/solid 1.unc
+1D1500 levels/MGZ/act2/solid 2.unc
+
+1D1B00 levels/CNZ/common/solid 1.unc
+1D2100 levels/CNZ/common/solid 2.unc
+
+1D2700 levels/FBZ/act1/solid 1.unc
+1D2D00 levels/FBZ/act1/solid 2.unc
+1D3300 levels/FBZ/act2/solid 1.unc
+1D3900 levels/FBZ/act2/solid 2.unc
+
+1D3F00 levels/ICZ/act1/solid 1.unc
+1D4500 levels/ICZ/act1/solid 2.unc
+1D4B00 levels/ICZ/act2/solid 1.unc
+1D5100 levels/ICZ/act2/solid 2.unc
+
+1D5700 levels/LBZ/act1/solid 1.unc
+1D5D00 levels/LBZ/act1/solid 2.unc
+1D6300 levels/LBZ/act2/solid 1.unc
+1D6900 levels/LBZ/act2/solid 2.unc
+
+1D6F00 levels/ALZ/common/solid 1.unc
+1D7500 levels/ALZ/common/solid 2.unc
+1D7B00 levels/BPZ/common/solid 1.unc
+1D8100 levels/BPZ/common/solid 2.unc
+1D8700 levels/DPZ/common/solid 1.unc
+1D8D00 levels/DPZ/common/solid 2.unc
+1D9300 levels/CGZ/common/solid 1.unc
+1D9900 levels/CGZ/common/solid 2.unc
+1D9F00 levels/EMZ/common/solid 1.unc
+1DA500 levels/EMZ/common/solid 2.unc
+
+1DAB00 levels/Gumball/act1/solid 1.unc
+1DB100 levels/Gumball/act1/solid 2.unc
+1DB700 levels/GlowingSpheres/act1/solid 1.unc
+1DBD00 levels/GlowingSpheres/act1/solid 2.unc
+1DC300 levels/Slots/act1/solid 1.unc
+1DC900 levels/Slots/act1/solid 2.unc
+1DDF00
+
+# disassemble layout files
+1DCFC0 levels/AIZ/act1/layout.unc
+1DD80C levels/AIZ/act2/layout.unc
+1DE572 levels/HCZ/act1/layout.unc
+1DF0FA levels/HCZ/act2/layout.unc
+1DFFA2 levels/MGZ/act1/layout.unc
+1E0C32 levels/MGZ/act2/layout.unc
+
+1E19E2 levels/CNZ/act1/layout.unc
+1E2518 levels/CNZ/act2/layout.unc
+1E340E levels/FBZ/act1/layout.unc
+1E4278 levels/FBZ/act2/layout.unc
+1E4EB2 levels/ICZ/act1/layout.unc
+1E5E7A levels/ICZ/act2/layout.unc
+1E6CCA levels/LBZ/act1/layout.unc
+1E7C76 levels/LBZ/act2/layout.unc
+
+1E8B9E levels/ALZ/common/layout.unc
+1E8D6A levels/BPZ/common/layout.unc
+1E8EBE levels/DPZ/common/layout.unc
+1E8FB6 levels/CGZ/common/layout.unc
+1E90AE levels/EMZ/common/layout.unc
+
+1E91A6 levels/Gumball/common/layout.unc
+1E9286 levels/GlowingSpheres/common/layout.unc
+1E940E levels/Slots/common/layout.unc
+1E94F4
+
+# disassemble unused data
+1EB85E levels/LRZ/act2/layout.1EB85E.unc
+1EC4CE levels/LRZ/act1/layout.1EC4CE.unc
+1ED2F6 levels/LRZ/act1/layout.1ED2F6.unc
+1EE11E levels/LRZ/act1/layout.1EE11E.unc
+1EEF46 levels/LRZ/act1/layout.1EEF46.unc
+1EFD6E levels/LRZ/act1/layout.1EFD6E.unc
+1F0B96 levels/LRZ/act1/layout.1F0B96.unc
+
+1F19BE levels/unknown/layout.1F19BE.unc
+1F1B2A levels/unknown/layout.1F1B2A.unc
+1F1C04 levels/unknown/layout.1F1C04.unc
+1F1D58 levels/unknown/layout.1F1D58.unc
+1F1F9A levels/unknown/layout.1F1F9A.unc
+1F20EE levels/unknown/layout.1F20EE.unc
+1F21CE
+
+# disassemble object and ring positions
+1F72DE levels/AIZ/act1/obj.unc
+1F75C6 levels/AIZ/act2/obj.unc
+1F7A4C levels/AIZ/act1/ring.unc
+1F7A4C levels/AIZ/act2/ring.unc
+1F7F40
+
+1F7F46 levels/HCZ/act1/obj.unc
+1F8762 levels/HCZ/act2/obj.unc
+1F8FA8 levels/HCZ/act1/ring.unc
+1F93F0 levels/HCZ/act2/ring.unc
+1F9708
+
+1F970E levels/MGZ/act1/obj.unc
+1F9F18 levels/MGZ/act1/ring.unc
+1FA49C
+1FA4A2 levels/MGZ/act2/obj.unc
+1FABD4 levels/MGZ/act2/ring.unc
+1FB0F8
+
+1FB0FE levels/CNZ/act1/obj.unc
+1FB9FE levels/CNZ/act2/obj.unc
+1FC4A2 levels/CNZ/act1/ring.unc
+1FC7DA levels/CNZ/act2/ring.unc
+1FC96A
+
+1FC970 levels/FBZ/act1/obj.unc
+1FC982 levels/FBZ/act2/obj.unc
+1FC99A levels/FBZ/act1/ring.unc
+1FC9C2 levels/FBZ/act2/ring.unc
+1FCA08
+
+1FCA0E levels/ICZ/act1/obj.unc
+1FCDF8 levels/ICZ/act2/obj.unc
+1FD344 levels/ICZ/act1/ring.unc
+1FD550 levels/ICZ/act2/ring.unc
+1FD890
+
+1FD896 levels/LBZ/act1/obj.unc
+1FE100 levels/LBZ/act2/obj.unc
+1FE8F8 levels/LBZ/act1/ring.unc
+1FEC88 levels/LBZ/act2/ring.unc
+1FF0C8
+
+1FF620 levels/MVZ/act1/obj.unc
+1FF722 levels/MVZ/act2/obj.unc
+1FF7E2 levels/MVZ/act1/ring.unc
+1FF7E8 levels/MVZ/act2/ring.unc
+1FF7EE
+
+1FF7F4 levels/SOZ/act1/obj.unc
+1FF800 levels/SOZ/act2/obj.unc
+1FF80C levels/SOZ/act1/ring.unc
+1FF812 levels/SOZ/act2/ring.unc
+1FF818
+
+1FF81E levels/LRZ/act1/obj.unc
+1FF82A levels/LRZ/act2/obj.unc
+1FF836 levels/LRZ/act1/ring.unc
+1FF83C levels/LRZ/act2/ring.unc
+1FF842
+
+1FF848 levels/SSZ/act1/obj.unc
+1FF854 levels/SSZ/act2/obj.unc
+1FF860 levels/SSZ/act1/ring.unc
+1FF866 levels/SSZ/act2/ring.unc
+1FF86C
+
+1FF872 levels/DEZ/act1/obj.unc
+1FF87E levels/DEZ/act2/obj.unc
+1FF88A levels/DEZ/act1/ring.unc
+1FF890 levels/DEZ/act2/ring.unc
+1FF896
+
+1FF89C levels/DDZ/act1/obj.unc
+1FF8A8 levels/DDZ/act2/obj.unc
+1FF8B4 levels/DDZ/act1/ring.unc
+1FF8BA levels/DDZ/act2/ring.unc
+1FF8C0
+
+1FF8C6 levels/End/act1/obj.unc
+1FF8D2 levels/End/act2/obj.unc
+1FF8DE levels/End/act1/ring.unc
+1FF8E4 levels/End/act2/ring.unc
+1FF8EA
+
+1FF8F0 levels/ALZ/act1/obj.unc
+1FF92C levels/ALZ/act2/obj.unc
+1FF938 levels/ALZ/act1/ring.unc
+1FF93E levels/ALZ/act2/ring.unc
+1FF944
+
+1FF94A levels/BPZ/act1/obj.unc
+1FF99E levels/BPZ/act2/obj.unc
+1FF9AA levels/BPZ/act1/ring.unc
+1FF9B0 levels/BPZ/act2/ring.unc
+1FF9B6
+
+1FF9BC levels/DPZ/act1/obj.unc
+1FFA28 levels/DPZ/act2/obj.unc
+1FFA34 levels/DPZ/act1/ring.unc
+1FFA3A levels/DPZ/act2/ring.unc
+1FFA40
+
+1FFA46 levels/CGZ/act1/obj.unc
+1FFAA6 levels/CGZ/act2/obj.unc
+1FFAB2 levels/CGZ/act1/ring.unc
+1FFAB8 levels/CGZ/act2/ring.unc
+1FFABE
+
+1FFAC4 levels/EMZ/act1/obj.unc
+1FFAEE levels/EMZ/act2/obj.unc
+1FFAFA levels/EMZ/act1/ring.unc
+1FFB00 levels/EMZ/act2/ring.unc
+1FFB06
+
+1FFB0C levels/Gumball/act1/obj.unc
+1FFB18 levels/Gumball/act2/obj.unc
+1FFB24 levels/Gumball/act1/ring.unc
+1FFB2A levels/Gumball/act2/ring.unc
+1FFB30
+
+1FFB36 levels/GlowingSpheres/act1/obj.unc
+1FFB42 levels/GlowingSpheres/act2/obj.unc
+1FFB4E levels/GlowingSpheres/act1/ring.unc
+1FFB54 levels/GlowingSpheres/act2/ring.unc
+1FFB5A
+
+1FFB60 levels/Slots/act1/obj.unc
+1FFB6C levels/Slots/act2/obj.unc
+1FFB78 levels/Slots/act1/ring.unc
+1FFB7E levels/Slots/act2/ring.unc
+1FFB84
+
+1FFB8A levels/LRZ/act3/obj.unc
+1FFB96 levels/HPZ/act1/obj.unc
+1FFBA2 levels/LRZ/act3/ring.unc
+1FFBA8 levels/HPZ/act1/ring.unc
+1FFBAE
+
+1FFBB4 levels/DEZ/act3/obj.unc
+1FFBC0 levels/HPZ/act2/obj.unc
+1FFBCC levels/DEZ/act3/ring.unc
+1FFBD2 levels/HPZ/act2/ring.unc
+1FFBD8
+
+200000
