@@ -1,6 +1,6 @@
 
-8EBC levels/LRZ/act1/rock.unc
-9000 levels/LRZ/act2/rock.unc
+8EBC levels/CNZ bumper act1.unc
+9000 levels/CNZ bumper act2.unc
 9144
 
 # disassemble all the music data
@@ -370,7 +370,7 @@ F7304
 1A6B0C levels/Slots/common/Blocks.kos
 1A77CC levels/Slots/common/Tiles.kosm
 1AA46E levels/Slots/common/Chunks.kos
-1F6A41
+1AACAE
 
 # disassemble collision files
 1CD300 levels/AIZ/act1/solid 1.unc
@@ -454,6 +454,9 @@ F7304
 1E94F4
 
 # disassemble unused data
+# BTW all the lrz1 layouts are the exact same
+1EA414 levels/LRZ/act1/rock.unc
+1EAF4A levels/LRZ/act1/layout.1EAF4A.unc
 1EB85E levels/LRZ/act2/layout.1EB85E.unc
 1EC4CE levels/LRZ/act1/layout.1EC4CE.unc
 1ED2F6 levels/LRZ/act1/layout.1ED2F6.unc
@@ -462,13 +465,27 @@ F7304
 1EFD6E levels/LRZ/act1/layout.1EFD6E.unc
 1F0B96 levels/LRZ/act1/layout.1F0B96.unc
 
-1F19BE levels/unknown/layout.1F19BE.unc
-1F1B2A levels/unknown/layout.1F1B2A.unc
-1F1C04 levels/unknown/layout.1F1C04.unc
-1F1D58 levels/unknown/layout.1F1D58.unc
-1F1F9A levels/unknown/layout.1F1F9A.unc
-1F20EE levels/unknown/layout.1F20EE.unc
+1F19BE levels/ALZ/common/layout.1F19BE.unc
+1F1B2A levels/BPZ/common/layout.1F1B2A.unc
+1F1C04 levels/BPZ/common/layout.1F1C04.unc
+1F1D58 levels/CGZ/common/layout.1F1D58.unc
+1F1F9A levels/BPZ/common/layout.1F1F9A.unc
+1F20EE levels/Slots/common/layout.1F20EE.unc
 1F21CE
+
+1F33AE levels/LRZ/act1/rock.1F33AE.unc
+1F3EC4 levels/LRZ/act1/layout.1F3EC4.unc
+1F4456 levels/ALZ/common/layout.1F4456.unc
+1F46A6 levels/CGZ/common/layout.1F46A6.unc
+1F478E levels/CGZ/common/layout.1F478E.unc
+1F4A56 levels/BPZ/common/layout.1F4A56.unc
+1F4BAA levels/Slots/common/layout.1F4BAA.unc
+1F4C8A
+
+1F5D0A levels/LRZ/act1/rock.1F5D0A.unc
+1F6840 levels/LRZ/act1/rock.1F6840.unc
+1F68B4 levels/LRZ/act1/rock.1F68B4.unc
+1F6A46
 
 # disassemble object and ring positions
 1F72DE levels/AIZ/act1/obj.unc
